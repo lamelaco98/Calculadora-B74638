@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="calculo">Cálculo</string>
+    <string name="ac">AC</string>
+    <string name="porcentaje">%</string>
+    <string name="division">/</string>
+    <string name="del">Del</string>
+    <string name="uno">1</string>
+    <string name="dos">2</string>
+    <string name="tres">3</string>
+    <string name="multiplicacion">*</string>
+    <string name="cuatro">4</string>
+    <string name="cinco">5</string>
+    <string name="seis">6</string>
+    <string name="resta">-</string>
+    <string name="siete">7</string>
+    <string name="ocho">8</string>
+    <string name="nueve">9</string>
+    <string name="suma">+</string>
+    <string name="cero">0</string>
+    <string name="punto">.</string>
+    <string name="resultado">=</string>
+    <string name="txt_resultado">Resultado</string>
+</resources>
