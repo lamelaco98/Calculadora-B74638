@@ -171,9 +171,12 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         this.operacion="";
         txt_resultado.setText("0");
         txt_calculo.setText("");
+        conteo=0;
     }
 
     public void borrar(){
+        conteo=0;
+
         String n_operacion = "";
         for (int i=0; i<(this.operacion.length()-1); i++){
             n_operacion = n_operacion + String.valueOf(this.operacion.charAt(i));
